@@ -5,8 +5,9 @@ permalink: /teaching/
 ---
 
 ### Instructor
-- Spring 2023: STATS 32 (Introduction to R for Undergraduates)
-- Spring 2022: STATS 32 (Introduction to R for Undergraduates)
+- Summer 2023: STATS 116 (Theory of Probability, Stanford University)
+- Spring 2023: STATS 32 (Introduction to R for Undergraduates, Stanford University)
+- Spring 2022: STATS 32 (Introduction to R for Undergraduates, Stanford University)
 
 ### Teaching Assistant
 - Autumn 2022: STATS 200 (Introduction to Statistical Inference, Stanford University)
