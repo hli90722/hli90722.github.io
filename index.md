@@ -14,9 +14,8 @@ Before grad school I worked as a quantitative trader on Wall Street, and did my 
 My dad, [Kai Li](https://en.wikipedia.org/wiki/Kai_Li_(businessman)), has been wrongfully detained in China since 2016. The wrongful designation is based on the assessment of the US Department of State and the [United Nations
 Working Group on Arbitrary Detention](https://www.ohchr.org/sites/default/files/Documents/Issues/Detention/Opinions/Session89/A_HRC_WGAD_2020_78.pdf). To help reunite our family, follow [@FreeKaiLi on Twitter](https://www.twitter.com/FreeKaiLi) and support the efforts of the [Bring Our Families Home Campaign](https://www.bringourfamilieshome.org/).  
 
-<body style="width:100%; height:100%; margin:0;">
-    <iframe src="https://docs.google.com/gview?url=https://github.com/hli90722/hli90722.github.io/blob/main/HLi_CV.pdf &embedded=true" style="width:100%; height:100%;" frameborder="0"></iframe>
-</body>
+
+[CV](https://github.com/hli90722/hli90722.github.io/blob/main/HLi_CV.pdf)
 
 
 
