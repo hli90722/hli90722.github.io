@@ -5,13 +5,15 @@ permalink: /research/
 ---
 
 ### Preprints
-- [A general characterization of optimal tie-breaker designs](https://arxiv.org/abs/2202.12511)\
-**Harrison H. Li** and Art B. Owen (2022). [Talk](https://www.youtube.com/watch?v=Bqk9CF3s08A)
 
 - [RbX: Region-based explanations of prediction models](https://arxiv.org/abs/2210.08721)\
 Ismael Lemhadri, **Harrison H. Li** and Trevor Hastie (2022)
 
 ### Journal articles
+
+- [A general characterization of optimal tie-breaker designs](https://hli90722.github.io/pdfs/AOS2275.pdf)
+**Harrison H. Li** and Art B. Owen. *Annals of Statistics*, 2023. [Journal link](https://projecteuclid.org/journals/annals-of-statistics/volume-51/issue-3/A-general-characterization-of-optimal-tie-breaker-designs/10.1214/23-AOS2275.short)
+
 The following papers are meteorological data analysis projects from my high school and early undergraduate years. From a statistical perspective they are quite methodologically routine.
 
 - [Suppression of Arctic Air Formation with Climate Warming: Investigation with a Two-Dimensional Cloud-Resolving Model](https://journals.ametsoc.org/view/journals/atsc/74/9/jas-d-16-0193.1.xml)\
