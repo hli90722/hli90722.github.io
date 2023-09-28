@@ -6,6 +6,9 @@ permalink: /research/
 
 ### Preprints
 
+- [Double machine learning and design in batch adaptive experiments](https://arxiv.org/abs/2309.15297)\
+**Harrison H. Li** and Art B. Owen (2023)
+
 - [RbX: Region-based explanations of prediction models](https://arxiv.org/abs/2210.08721)\
 Ismael Lemhadri, **Harrison H. Li** and Trevor Hastie (2022)
 
