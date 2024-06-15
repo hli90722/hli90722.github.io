@@ -6,6 +6,9 @@ permalink: /research/
 
 ### Preprints
 
+- [Efficient combination of observational and experimental datasets under general restrictions on outcome mean functions](https://arxiv.org/abs/2406.06941)\
+**Harrison H. Li** (2024)
+
 - [Double machine learning and design in batch adaptive experiments](https://arxiv.org/abs/2309.15297)\
 **Harrison H. Li** and Art B. Owen (2023)
 
