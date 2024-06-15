@@ -25,6 +25,7 @@ For this course I wrote some [lecture notes](https://hli90722.github.io/pdfs/STA
 - Fall 2016: STAT 110 (Introduction to Probability, Harvard University)
 
 ### Awards
+- [2024 Sequoia Hall Prize for Teaching Excellence](https://statistics.stanford.edu/news/2024-statistics-teaching-assistant-awards) (Stanford University; awarded to one graduate student TA every two years)
 - [2022 Statistics Departmental Teaching Award](https://statistics.stanford.edu/news/2022-statistics-teaching-assistant-awards) (Stanford University)
 - 2016, 2017 Derek Bok Q Awards Certificates of Distinction (Harvard University)
 
