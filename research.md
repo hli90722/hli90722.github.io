@@ -6,16 +6,19 @@ permalink: /research/
 
 ### Preprints
 
+- [Setting the duration of online A/B experiments](https://arxiv.org/abs/2408.02830)\
+**Harrison H. Li** and Chaoyu Yu (2024)
+
 - [Efficient combination of observational and experimental datasets under general restrictions on outcome mean functions](https://arxiv.org/abs/2406.06941)\
 **Harrison H. Li** (2024)
-
-- [Double machine learning and design in batch adaptive experiments](https://arxiv.org/abs/2309.15297)\
-**Harrison H. Li** and Art B. Owen (2023)
 
 - [RbX: Region-based explanations of prediction models](https://arxiv.org/abs/2210.08721)\
 Ismael Lemhadri, **Harrison H. Li** and Trevor Hastie (2022)
 
 ### Journal articles
+
+- [Double machine learning and design in batch adaptive experiments](https://arxiv.org/abs/2309.15297)\
+**Harrison H. Li** and Art B. Owen. *Journal of Causal Inference*, in press.
 
 - [A general characterization of optimal tie-breaker designs](https://hli90722.github.io/pdfs/AOS2275.pdf)
 **Harrison H. Li** and Art B. Owen. *Annals of Statistics*, 2023. [Journal link](https://projecteuclid.org/journals/annals-of-statistics/volume-51/issue-3/A-general-characterization-of-optimal-tie-breaker-designs/10.1214/23-AOS2275.short)
