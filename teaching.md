@@ -5,8 +5,8 @@ permalink: /teaching/
 ---
 
 ### Instructor
-- Spring 2024: STATS 32 (Introduction to R for Undergraduates, Stanford University)
-- Summer 2023: STATS 116 (Theory of Probability, Stanford University)
+- Spring 2024: STATS 32 (Introduction to R for Undergraduates, Stanford University) [Materials](https://hli90722.github.io/zips/stats_32_materials.zip)
+- Summer 2023: STATS 116 (Theory of Probability, Stanford University) [Materials](https://hli90722.github.io/zips/stats_116_materials.zip)
 
 For this course I wrote some [lecture notes](https://hli90722.github.io/pdfs/STATS_116_NOTES.pdf) that condense (a strict subset of) the material of the excellent [textbook](https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/edit) by my undergraduate thesis advisor, [Prof. Joe Blitzstein](https://statistics.fas.harvard.edu/people/joseph-k-blitzstein) along with Jessica Hwang, into an intensive 8-week course. All errors and omissions are my own.
 
