@@ -18,7 +18,7 @@ Ismael Lemhadri, **Harrison H. Li** and Trevor Hastie (2022)
 ### Journal articles
 
 - [Double machine learning and design in batch adaptive experiments](https://arxiv.org/abs/2309.15297)\
-**Harrison H. Li** and Art B. Owen. *Journal of Causal Inference*, in press.
+**Harrison H. Li** and Art B. Owen. *Journal of Causal Inference*, 2024. [Journal link](https://www.degruyter.com/document/doi/10.1515/jci-2023-0068/html)
 
 - [A general characterization of optimal tie-breaker designs](https://hli90722.github.io/pdfs/AOS2275.pdf)
 **Harrison H. Li** and Art B. Owen. *Annals of Statistics*, 2023. [Journal link](https://projecteuclid.org/journals/annals-of-statistics/volume-51/issue-3/A-general-characterization-of-optimal-tie-breaker-designs/10.1214/23-AOS2275.short)
