@@ -4,17 +4,6 @@ title: Research
 permalink: /research/
 ---
 
-### Preprints
-
-- [Setting the duration of online A/B experiments](https://arxiv.org/abs/2408.02830)\
-**Harrison H. Li** and Chaoyu Yu (2024)
-
-- [Efficient combination of observational and experimental datasets under general restrictions on outcome mean functions](https://arxiv.org/abs/2406.06941)\
-**Harrison H. Li** (2024)
-
-- [RbX: Region-based explanations of prediction models](https://arxiv.org/abs/2210.08721)\
-Ismael Lemhadri, **Harrison H. Li** and Trevor Hastie (2022)
-
 ### Journal articles
 
 - [Double machine learning and design in batch adaptive experiments](https://arxiv.org/abs/2309.15297)\
@@ -34,7 +23,16 @@ Timothy W. Cronin, **Harrison H. Li** and Eli Tziperman. *Journal of Atmospheric
 - [Multidecadal Changes in the Frequency and Ambient Conditions of Warm Season Convective Storms over the Northeastern United States](https://journals.ametsoc.org/view/journals/clim/27/19/jcli-d-13-00785.1.xml)\
 **Harrison H. Li** and Brian A. Colle. *Journal of Climate*, 2014
 
+### Technical reports
 
+- [Setting the duration of online A/B experiments](https://arxiv.org/abs/2408.02830)\
+**Harrison H. Li** and Chaoyu Yu (2024)
+
+- [Efficient combination of observational and experimental datasets under general restrictions on outcome mean functions](https://arxiv.org/abs/2406.06941)\
+**Harrison H. Li** (2024)
+
+- [RbX: Region-based explanations of prediction models](https://arxiv.org/abs/2210.08721)\
+Ismael Lemhadri, **Harrison H. Li** and Trevor Hastie (2022)
 
 
 
