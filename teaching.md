@@ -14,6 +14,7 @@ For this course I wrote some [lecture notes](https://hli90722.github.io/pdfs/STA
 - Spring 2022: STATS 32 (Introduction to R for Undergraduates, Stanford University)
 
 ### Teaching Assistant
+- Spring 2025: STATS 117 (Introduction to Probability Theory, Stanford University)
 - Autumn 2023: STATS 206 (Applied Multivariate Analysis, Stanford University)
 - Autumn 2022: STATS 200 (Introduction to Statistical Inference, Stanford University)
 - Winter 2022: STATS 200 (Introduction to Statistical Inference, Stanford University)
