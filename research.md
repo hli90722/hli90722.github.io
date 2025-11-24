@@ -4,15 +4,16 @@ title: Research
 permalink: /research/
 ---
 
-### Journal articles
+### Publications
 
-- [Double machine learning and design in batch adaptive experiments](https://arxiv.org/abs/2309.15297)\
+- [Scalable vision-guided crop yield estimation](https://www.arxiv.org/abs/2511.12999)
+**Harrison H. Li**, Medhanie Irgau, Nabil Janmohamed, Karen Solveig Rieckmann, David B. Lobell. *Proceedings of the AAAI Conference on Artificial Intelligence* (to appear).
+
+- [Double machine learning and design in batch adaptive experiments](https://arxiv.org/abs/2309.15297)
 **Harrison H. Li** and Art B. Owen. *Journal of Causal Inference*, 2024. [Journal link](https://www.degruyter.com/document/doi/10.1515/jci-2023-0068/html)
 
 - [A general characterization of optimal tie-breaker designs](https://hli90722.github.io/pdfs/AOS2275.pdf)
 **Harrison H. Li** and Art B. Owen. *Annals of Statistics*, 2023. [Journal link](https://projecteuclid.org/journals/annals-of-statistics/volume-51/issue-3/A-general-characterization-of-optimal-tie-breaker-designs/10.1214/23-AOS2275.short)
-
-The following papers are data analysis projects from my high school and early undergraduate years.
 
 - [Suppression of Arctic Air Formation with Climate Warming: Investigation with a Two-Dimensional Cloud-Resolving Model](https://journals.ametsoc.org/view/journals/atsc/74/9/jas-d-16-0193.1.xml)\
 Timothy W. Cronin, **Harrison H. Li** and Eli Tziperman. *Journal of Atmospheric Sciences*, 2017
