@@ -5,6 +5,8 @@ permalink: /teaching/
 ---
 
 ### Instructor
+- Spring 2026: MATH 62 (Introduction to Probability and Statistics), Harvey Mudd College
+- Spring 2026: MATH 157 (Intermediate Probability), Harvey Mudd College
 - Fall 2025: MATH 157 (Intermediate Probability), Harvey Mudd College
 - Fall 2025: MATH 158 (Statistical Linear Models), Harvey Mudd College
 - Spring 2024: STATS 32 (Introduction to R for Undergraduates, Stanford University)
