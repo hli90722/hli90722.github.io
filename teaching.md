@@ -7,12 +7,12 @@ permalink: /teaching/
 ## Instructor
 
 ### Harvey Mudd College
-- MATH 157: Intermediate Probability (Fall 2025, Spring 2026)
+- MATH 157: Intermediate Probability (Spring 2026, Fall 2025)
 - MATH 62: Introduction to Probability and Statistics (Spring 2026)
 - MATH 158: Statistical Linear Models (Fall 2025)
 
 ### Stanford University
-- STATS 32: Introduction to R for Undergraduates (Spring 2022, Spring 2023, Spring 2024)
+- STATS 32: Introduction to R for Undergraduates (Spring 2024, Spring 2023, Spring 2022)
 - STATS 116: Theory of Probability (Summer 2023)
 
 ## Teaching Assistant
@@ -20,7 +20,7 @@ permalink: /teaching/
 ### Stanford University
 - STATS 117: Introduction to Probability Theory (Spring 2025)
 - STATS 206: Applied Multivariate Analysis (Autumn 2023)
-- STATS 200: Introduction to Statistical Inference (Winter 2022, Autumn 2022)
+- STATS 200: Introduction to Statistical Inference (Autumn 2022, Winter 2022)
 - STATS 300A: Theory of Statistics I (Autumn 2021)
 - STATS 60: Introduction to Statistical Methods: Precalculus (Spring 2021)
 - STATS 216: Introduction to Statistical Learning (Winter 2021)
