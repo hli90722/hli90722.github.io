@@ -7,7 +7,7 @@ permalink: /research/
 ### Publications
 
 - [Scalable vision-guided crop yield estimation](https://www.arxiv.org/abs/2511.12999)\
-**Harrison H. Li**, Medhanie Irgau, Nabil Janmohamed, Karen Solveig Rieckmann, David B. Lobell. *Proceedings of the AAAI Conference on Artificial Intelligence* (to appear).
+**Harrison H. Li**, Medhanie Irgau, Nabil Janmohamed, Karen Solveig Rieckmann, David B. Lobell. *Proceedings of the AAAI Conference on Artificial Intelligence*, 2026. [Journal link](https://ojs.aaai.org/index.php/AAAI/article/download/37026/40988)
 
 - [Double machine learning and design in batch adaptive experiments](https://arxiv.org/abs/2309.15297)\
 **Harrison H. Li** and Art B. Owen. *Journal of Causal Inference*, 2024. [Journal link](https://www.degruyter.com/document/doi/10.1515/jci-2023-0068/html)
@@ -25,6 +25,8 @@ Timothy W. Cronin, **Harrison H. Li** and Eli Tziperman. *Journal of Atmospheric
 **Harrison H. Li** and Brian A. Colle. *Journal of Climate*, 2014
 
 ### Technical reports
+
+- [Transporting treatment effects by calibrating large-scale observational outcomes](https://arxiv.org/abs/2605.07285)\
 
 - [Setting the duration of online A/B experiments](https://arxiv.org/abs/2408.02830)\
 **Harrison H. Li** and Chaoyu Yu (2024)
