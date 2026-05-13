@@ -13,7 +13,7 @@ My dad, [Kai Li](https://en.wikipedia.org/wiki/Kai_Li_(businessman)), was wrongf
 Working Group on Arbitrary Detention](https://www.ohchr.org/sites/default/files/Documents/Issues/Detention/Opinions/Session89/A_HRC_WGAD_2020_78.pdf). To help other Americans in a similar situation, please consider supporting the efforts of the [Bring Our Families Home Campaign](https://www.bringourfamilieshome.org/).  
 
 
-[CV (December 2024)](https://github.com/hli90722/hli90722.github.io/blob/main/HLi_CV.pdf)
+[CV (May 2026)](https://github.com/hli90722/hli90722.github.io/blob/main/HLi_CV.pdf)
 
 
 
