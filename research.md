@@ -27,6 +27,7 @@ Timothy W. Cronin, **Harrison H. Li** and Eli Tziperman. *Journal of Atmospheric
 ### Technical reports
 
 - [Transporting treatment effects by calibrating large-scale observational outcomes](https://arxiv.org/abs/2605.07285)\
+**Harrison H. Li** (2026)
 
 - [Setting the duration of online A/B experiments](https://arxiv.org/abs/2408.02830)\
 **Harrison H. Li** and Chaoyu Yu (2024)
